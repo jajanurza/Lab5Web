@@ -1,3 +1,9 @@
+Lab5WEB
+Nama : jaja nurjaman
+Nim  : 31910083
+Kelas : TI.19.B1
+
+
 Langkah-langkah Praktikum 
 Persiapan membuat dokumen HTML dengan nama file javascript dan masukan kodingan  berikut:
  
@@ -12,10 +18,12 @@ Saat from di sumbit onsumbit=”validasi()”
 
 Yang mana function validasi sudah kita buat untuk mengecek inputan
 
+
 ![image](https://user-images.githubusercontent.com/81528179/115988527-65901500-a5e4-11eb-8dc6-701392fed2cc.png)
 
  
 Kemudian masukan kodingan untuk menampilkan gambar atau logo tampilan agar terlihat menarik.
+
 
 ![image](https://user-images.githubusercontent.com/81528179/115988616-c4558e80-a5e4-11eb-994d-215da353adf9.png)
 
